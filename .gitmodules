@@ -1,0 +1,4 @@
+[submodule "kali-nethunter-kernel-builder"]
+	path = kali-nethunter-kernel-builder
+	url = https://gitlab.com/petros402/kali-nethunter-kernel-builder.git
+	branch = device/miatoll-los22.2
